@@ -1,2 +1,2 @@
 
- export const server_url='http://localhost:4000'
+ export const server_url='https://media-player-server-t7yh.onrender.com'
